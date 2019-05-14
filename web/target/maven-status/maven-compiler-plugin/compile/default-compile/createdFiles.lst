@@ -1,0 +1,16 @@
+com\aidar\util\UserValidator.class
+com\aidar\document\AbstractPdfView.class
+com\aidar\controller\CommunityController.class
+com\aidar\controller\UserController.class
+com\aidar\util\RequestValidator.class
+com\aidar\controller\RequestController.class
+com\aidar\document\UsersPdfBuilder.class
+com\aidar\document\CommunitiesPdfBuilder.class
+com\aidar\security\UserDetailsImpl.class
+com\aidar\util\UserRegistrationForm.class
+com\aidar\controller\HomeController.class
+com\aidar\document\RequestsPdfBuilder.class
+com\aidar\security\AuthProviderImpl.class
+com\aidar\util\UserRegistrationFormToUserTransformer.class
+com\aidar\controller\AuthController.class
+com\aidar\security\UserDetailsServiceImpl.class

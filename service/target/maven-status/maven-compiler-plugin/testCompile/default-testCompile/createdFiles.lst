@@ -1,0 +1,14 @@
+com\aidar\service\impl\AssessmentServiceTest.class
+com\aidar\service\impl\NewsServiceTest.class
+com\aidar\service\impl\MessageServiceTest.class
+com\aidar\config\UserServiceTestConfig.class
+com\aidar\service\impl\UserServiceTest.class
+com\aidar\service\impl\CommentServiceTest.class
+com\aidar\config\CommentServiceTestConfig.class
+com\aidar\config\NewsServiceTestConfig.class
+com\aidar\config\AssessmentServiceTestConfig.class
+com\aidar\config\MessageServiceTestConfig.class
+com\aidar\service\impl\CommunityServiceTest.class
+com\aidar\config\CommunityServiceTestConfig.class
+com\aidar\config\RequestServiceTestConfig.class
+com\aidar\service\impl\RequestServiceTest.class
