@@ -3,9 +3,6 @@ package com.aidar.model;
 import javax.persistence.*;
 import java.util.Date;
 
-/**
- * Created by paradise on 30.04.16.
- */
 @Entity
 @Table(name = "news")
 @SequenceGenerator(name = "news_gen",

@@ -1,6 +1,3 @@
-/**
- * Created by paradise on 23.04.16.
- */
 
 $(document).ready(function () {
 

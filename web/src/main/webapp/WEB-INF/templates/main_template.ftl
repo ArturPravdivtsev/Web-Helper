@@ -120,7 +120,7 @@
 <script src="/web_war/resources/landing/dist/js/sb-admin-2.js"></script>
 
 <#list scripts as script>
-    <script type="application/javascript" src="${script}"></script>
+    <script type="text/javascript" src="${script}"></script>
 </#list>
 
 </body>

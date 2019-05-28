@@ -13,9 +13,6 @@ import org.springframework.context.annotation.Configuration;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-/**
- * Created by paradise on 06.05.16.
- */
 @Configuration
 public class RequestServiceTestConfig {
 

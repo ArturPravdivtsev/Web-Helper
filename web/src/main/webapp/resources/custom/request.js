@@ -1,6 +1,4 @@
-/**
- * Created by paradise on 01.05.16.
- */
+
 
 var map;
 var needy;

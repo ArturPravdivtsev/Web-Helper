@@ -1,8 +1,5 @@
 package com.aidar.enums;
 
-/**
- * Created by paradise on 29.04.16.
- */
 public enum  AssessmentType {
 
     LIKE("like"),

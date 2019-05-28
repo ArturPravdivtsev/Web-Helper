@@ -19,9 +19,6 @@ import org.springframework.stereotype.Component;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by paradise on 12.04.16.
- */
 @Component
 public class AuthProviderImpl implements AuthenticationProvider {
 

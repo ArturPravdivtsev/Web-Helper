@@ -39,7 +39,7 @@
                         <h3 class="panel-title">Please Sign In</h3>
                     </div>
                     <div class="panel-body">
-                        <form role="form" action="/web_war/login/process" method="post">
+                        <form role="form" action="/web_war/login/" method="post">
                             <fieldset>
                                 <div class="form-group">
                                     <input id="email" class="form-control" placeholder="E-mail" name="email" type="email" autofocus>

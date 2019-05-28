@@ -12,9 +12,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
 import java.util.Map;
 
-/**
- * Created by paradise on 30.04.16.
- */
 public abstract class AbstractPdfView extends AbstractView {
 
     public AbstractPdfView() {

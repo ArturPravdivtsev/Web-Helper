@@ -17,9 +17,6 @@ import org.springframework.test.context.support.AnnotationConfigContextLoader;
 
 import static org.mockito.Mockito.*;
 
-/**
- * Created by paradise on 07.05.16.
- */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = CommentServiceTestConfig.class,
         loader = AnnotationConfigContextLoader.class)

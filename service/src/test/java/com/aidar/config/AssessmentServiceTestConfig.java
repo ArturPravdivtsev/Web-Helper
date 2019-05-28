@@ -10,9 +10,6 @@ import org.springframework.context.annotation.Configuration;
 
 import static org.mockito.Mockito.mock;
 
-/**
- * Created by paradise on 07.05.16.
- */
 @Configuration
 public class AssessmentServiceTestConfig {
 

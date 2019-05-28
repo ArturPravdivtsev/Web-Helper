@@ -15,9 +15,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by paradise on 28.04.16.
- */
 @Service
 @Transactional
 public class MessageServiceImpl implements MessageService {

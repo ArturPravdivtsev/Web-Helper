@@ -14,9 +14,6 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.validation.Valid;
 import java.util.List;
 
-/**
- * Created by paradise on 24.04.16.
- */
 @Controller
 @RequestMapping("/communities")
 public class CommunityController {

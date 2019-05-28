@@ -5,9 +5,6 @@ import com.aidar.model.Community;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by paradise on 21.04.16.
- */
 public interface CommunityService {
 
     List<Community> getAll();

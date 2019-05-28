@@ -2,9 +2,6 @@ package com.aidar.model;
 
 import javax.persistence.*;
 
-/**
- * Created by paradise on 16.04.16.
- */
 @Entity
 @Table(name = "user_community")
 @SequenceGenerator(name = "user_community_gen",

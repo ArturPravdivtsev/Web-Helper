@@ -7,9 +7,6 @@ import javax.validation.constraints.Size;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by paradise on 13.04.16.
- */
 @Entity
 @Table(name = "community")
 @SequenceGenerator(name = "community_gen",

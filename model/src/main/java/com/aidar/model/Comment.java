@@ -3,9 +3,6 @@ package com.aidar.model;
 import javax.persistence.*;
 import java.util.Date;
 
-/**
- * Created by paradise on 13.04.16.
- */
 @Entity
 @Table(name = "comment")
 @SequenceGenerator(name = "comment_gen",

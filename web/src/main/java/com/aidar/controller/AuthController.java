@@ -15,9 +15,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.validation.Valid;
 
-/**
- * Created by paradise on 12.04.16.
- */
 @Controller
 public class AuthController {
 

@@ -17,9 +17,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by paradise on 21.04.16.
- */
 @Service
 @Transactional
 public class RequestServiceImpl implements RequestService {

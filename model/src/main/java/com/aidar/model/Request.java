@@ -7,9 +7,6 @@ import javax.persistence.*;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created by paradise on 13.04.16.
- */
 @Entity
 @Table(name = "request")
 @SequenceGenerator(name = "request_gen",

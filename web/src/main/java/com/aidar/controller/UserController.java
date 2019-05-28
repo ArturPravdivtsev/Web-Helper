@@ -14,9 +14,6 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by paradise on 17.04.16.
- */
 @Controller
 @RequestMapping("/users")
 public class UserController {

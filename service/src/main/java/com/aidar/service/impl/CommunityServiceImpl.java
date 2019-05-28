@@ -15,9 +15,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.*;
 
-/**
- * Created by paradise on 21.04.16.
- */
 @Service
 @Transactional
 public class CommunityServiceImpl implements CommunityService {

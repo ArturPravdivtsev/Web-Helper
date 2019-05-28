@@ -18,9 +18,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.List;
 
-/**
- * Created by paradise on 24.04.16.
- */
 @Controller
 @RequestMapping("/requests")
 public class RequestController {

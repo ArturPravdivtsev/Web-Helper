@@ -8,9 +8,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 
-/**
- * Created by paradise on 03.05.16.
- */
 @Component
 @Aspect
 public class LogAspect {

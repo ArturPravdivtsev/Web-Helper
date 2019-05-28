@@ -5,9 +5,6 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 import javax.validation.constraints.Size;
 
-/**
- * Created by paradise on 11.04.16.
- */
 public class UserRegistrationForm {
 
     @NotEmpty(message = "This field can`t be empty")

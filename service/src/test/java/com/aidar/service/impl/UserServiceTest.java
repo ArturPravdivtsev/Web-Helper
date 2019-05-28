@@ -21,9 +21,6 @@ import java.util.List;
 import static junit.framework.Assert.assertEquals;
 import static org.mockito.Mockito.*;
 
-/**
- * Created by paradise on 05.05.16.
- */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = UserServiceTestConfig.class,
         loader = AnnotationConfigContextLoader.class)

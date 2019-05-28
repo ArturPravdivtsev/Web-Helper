@@ -6,9 +6,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;
 
-/**
- * Created by paradise on 08.04.16.
- */
 @Entity
 @Table(name = "users")
 @SequenceGenerator(name = "users_gen", sequenceName = "users_seq", allocationSize = 1)

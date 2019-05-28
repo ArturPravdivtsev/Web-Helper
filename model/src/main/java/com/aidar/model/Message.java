@@ -5,9 +5,6 @@ import com.aidar.enums.MessageStatus;
 import javax.persistence.*;
 import java.util.Date;
 
-/**
- * Created by paradise on 13.04.16.
- */
 @Entity
 @Table(name = "message")
 @SequenceGenerator(name = "message_gen",

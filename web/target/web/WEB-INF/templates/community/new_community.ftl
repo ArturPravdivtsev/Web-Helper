@@ -18,7 +18,7 @@
             <div class="panel-body">
                 <div class="row">
                     <div class="col-lg-8">
-                        <@sf.form role="form" action="/communities/create" method="post" modelAttribute="community">
+                        <@sf.form role="form" action="/web_war/communities/create" method="post" modelAttribute="community">
                             <fieldset>
                                 <div class="form-group">
                                     <@sf.label path="name">Name</@sf.label>

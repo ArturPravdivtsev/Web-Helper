@@ -28,9 +28,6 @@ import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
-/**
- * Created by paradise on 07.05.16.
- */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = MessageServiceTestConfig.class,
         loader = AnnotationConfigContextLoader.class)

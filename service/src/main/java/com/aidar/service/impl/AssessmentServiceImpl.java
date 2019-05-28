@@ -13,9 +13,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * Created by paradise on 29.04.16.
- */
 @Service
 @Transactional
 public class AssessmentServiceImpl implements AssessmentService {

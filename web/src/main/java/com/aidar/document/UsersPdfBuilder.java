@@ -12,9 +12,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by paradise on 30.04.16.
- */
 @Component
 public class UsersPdfBuilder extends AbstractPdfView {
 

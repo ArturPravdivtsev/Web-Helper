@@ -1,6 +1,4 @@
-/**
- * Created by paradise on 06.05.16.
- */
+
 
 $(document).ready(function () {
 

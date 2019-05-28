@@ -8,9 +8,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * Created by paradise on 16.04.16.
- */
 @Repository
 public interface UserCommunityRepository extends JpaRepository<UserCommunity, Long> {
 

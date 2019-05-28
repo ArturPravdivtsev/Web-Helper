@@ -5,9 +5,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.List;
 
-/**
- * Created by paradise on 03.04.16.
- */
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class GeocodeResponse {
 

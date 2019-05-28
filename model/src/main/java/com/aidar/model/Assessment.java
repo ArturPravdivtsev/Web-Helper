@@ -4,9 +4,6 @@ import com.aidar.enums.AssessmentType;
 
 import javax.persistence.*;
 
-/**
- * Created by paradise on 29.04.16.
- */
 @Entity
 @Table(name = "assessment")
 @SequenceGenerator(name = "assessment_gen",

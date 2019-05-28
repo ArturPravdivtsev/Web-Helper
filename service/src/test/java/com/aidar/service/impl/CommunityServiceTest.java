@@ -24,9 +24,6 @@ import static org.junit.Assert.assertTrue;
 import static org.mockito.Matchers.any;
 import static org.mockito.Mockito.*;
 
-/**
- * Created by paradise on 07.05.16.
- */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = CommunityServiceTestConfig.class,
         loader = AnnotationConfigContextLoader.class)

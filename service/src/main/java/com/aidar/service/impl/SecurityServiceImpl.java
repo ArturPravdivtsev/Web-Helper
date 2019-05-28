@@ -7,9 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by paradise on 22.04.16.
- */
 @Service
 public class SecurityServiceImpl implements SecurityService {
 
